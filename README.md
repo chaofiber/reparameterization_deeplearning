@@ -1,19 +1,10 @@
 # reparameterization_deeplearning
-Usage
 
-Assume we put the videos in the NTU folder.
-we put the frame in the NTU_frame folder
-The structure of NTU_frame is like this:\
-        NTU_frame\
-         \quad label_1\
-            video_name1\
-              frame_picture1\
-              frame_picture2\
-              ...
-            video_name2\
-            ...
-          label_2\
-          ...
-          
-1.convert the video into frames: extract.py NTU NTU_frame
-2.
+## requirement
+1. Tensorflow
+2. opencv `pip install opencv-python`
+## Usage
+1. `extract.py NTU NTU_frame` will convert videos into frames, the The structure of NTU_frame is like this:
+        NTU_frame\label_1\video_name1\frame_picture1\
+            
+
