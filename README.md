@@ -15,6 +15,6 @@
 4. `python test.py` will test the model.
             
 ## frame selection
-1. `temporal_mapping.py NTU NTU_even NTU_map` will generate two frame folders, which contain evenly distributed frames and selected frames separately. 
+1. `temporal_mapping.py NTU_frame NTU_even NTU_map` will generate two frame folders, which contain evenly distributed frames and selected frames separately. 
 
 2. repeat the 2-4 in Usage part.
