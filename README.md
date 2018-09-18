@@ -3,9 +3,9 @@ Usage
 
 Assume we put the videos in the NTU folder.
 we put the frame in the NTU_frame folder
-The structure of NTU_frame is like this:
+The structure of NTU_frame is like this:\
         NTU_frame\
-          label_1\
+         \quad label_1\
             video_name1\
               frame_picture1\
               frame_picture2\
